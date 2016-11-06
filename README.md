@@ -9,11 +9,11 @@ URLencode4Kor (Popclip extension) for MacOS X(한글)
 
 ##Screenshot
 <p align="left">
-    <img src="http://www.guileschool.com/image2/D2698435-565D-464F-B0AE-4F1506388D99.jpg" width=250 loop=infinite>
+    <img src="http://d.pr/i/qLoo/2RkQD2Yk+" width=250 loop=infinite>
 </p>
 
 <p align="left">
-    <img src="http://www.guileschool.com/image2/D2694435-565D-4R4F-B0AE-4F15D6388D99.gif" width=850 loop=infinite>
+    <img src="http://d.pr/i/hcB4/1iAY50XT+" width=850 loop=infinite>
 </p>
 
 ##Download
